@@ -4,8 +4,8 @@ Python Starter Template
 
 
 
-.. image:: https://pyup.io/repos/github/dbaeza24/python_starter_template/shield.svg
-     :target: https://pyup.io/repos/github/dbaeza24/python_starter_template/
+.. image:: https://pyup.io/repos/github/dbaeza24/TemplateTest/shield.svg
+     :target: https://pyup.io/repos/github/dbaeza24/TemplateTest/
      :alt: Updates
 
 
